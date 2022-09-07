@@ -13,6 +13,17 @@ The program shouldn't accept reservation invalid data.
 - Checkout date has to be longer then checkin date.
 
 #### Diagram
-<h4 align="center">
+<div align="center">
 <img src="./assets/reservationDiagram.svg">
-</h4>
+</div>
+
+#### Output
+<div align="center">
+    <img src="./assets/output.png">
+</div>
+
+#### Exceptions output
+<div style="display:inline_block">
+    <img src="./assets/checkout-execption.png">
+    <img src="./assets/exception-update.png">
+</div>
